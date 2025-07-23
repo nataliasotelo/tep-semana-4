@@ -1,0 +1,15 @@
+Pautas
+El sitio que adjuntamos debía mostrar un listado que trae desde un servidor, como se ve en la imagen llamada img-act4.png , pero nuestros desarrolladores estaban en un mal día y cometieron varios errores…
+
+ 
+
+1- Deberán localizar los errores que se encuentran en los archivos init.js y listado.js, y corregirlos teniendo en cuenta los siguientes puntos:
+
+Revisen todos los archivos, pero tengan en cuenta que los errores que deben arreglar para lograr un resultado como el de la imagen, están presentes sólo en los archivos indicados.
+Fíjense también en la estructura del JSON que devuelve el servidor.
+Para algunos de los errores les será de gran ayuda la información que brinda la consola de las herramientas del desarrollador en el navegador, pero otros deberán encontrarlos ustedes solos.
+Tengan presente que este es su primer contacto con un sitio "real", es probable que no entiendan mucho de lo que se encuentran. Para encontrar los errores céntrense en la información que tienen y en lo aprendido estas semanas.
+Deberán registrar los errores y las correcciones realizadas con capturas de pantalla en un documento.
+2- Investiguen qué relación existe entre los conceptos de API, HTTP y JSON. Agreguen el resultado de la investigación al documento.
+
+El formato de entrega del documento debe ser en PDF.
